@@ -1,0 +1,2 @@
+
+{"firstName":"Olena","lastName":"Sonina","email":"o.sonina1986@gmail.com","address":"1234lklklklklklk","phone":"0673254989","paymentMethod":"Debit card","end":""}{"firstName":"hghghg","lastName":"hghghg","email":"ghghh@gfgg","address":"ghghgf","phone":"252525","paymentMethod":"Credit card","end":""}
